@@ -1,0 +1,12 @@
+site_name: Документация MkDocs
+site_description: Тестовая публикация документации (статический сайт) с помощью MkDocs и GitHub Pages
+
+theme: material
+
+plugins:
+  - macros
+
+nav:
+  - Главная: index.md
+  - О проекте: about.md
+  
