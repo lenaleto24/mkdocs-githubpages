@@ -1,3 +1,3 @@
 # Welcome to MkDocs
 
-{{ config.site_description }}.
+{{ config.site_description }}
