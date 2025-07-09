@@ -1,5 +1,5 @@
 site_name: Документация MkDocs
-site_description: Тестовая публикация документации (статический сайт) с помощью MkDocs и GitHub Pages
+site_description: Тестовая публикация документации (статический сайт) с помощью MkDocs и GitHub Pages (+Swagger UI).
 
 theme: material
 
