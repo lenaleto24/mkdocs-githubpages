@@ -8,5 +8,9 @@ plugins:
 
 nav:
   - Главная: index.md
+  - Инструкции:
+    - Быстрый старт: quickstart.md
   - О проекте: about.md
+
+
   
